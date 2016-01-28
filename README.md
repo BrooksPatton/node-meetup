@@ -3,7 +3,7 @@
 > Want to speak? Email me! michael at mherman dot org
 
 |    Date    | Subject              | Venue                       |
-|:----------:|:--------------------:|:---------------------------:|
+|------------|----------------------|-----------------------------|
 | 01/01/2016 | Node School          | Galvanize - Golden Triangle |
 | 01/28/2016 | Reactive Programming | Code                        |
 | 02/11/2016 | Node School          | Galvanize - Boulder         |
