@@ -9,7 +9,9 @@
 | 02/11/2016 | Node School          | Galvanize - Boulder         |
 | 02/18/2016 | Developing Slackbots | Code                        |
 | 03/10/2016 | Node School          | Galvanize - Golden Triangle |
+| 03/22/2016 | Fullstack with the CEAN stack | Code               |
 | 04/07/2016 | Node School          | Galvanize - Platte          |
+| 04/17/2016 | Reactive REST        | Code                        |
 | 05/05/2016 | Node School          | Galvanize - Golden Triangle |
 | 06/02/2016 | Node School          | Galvanize - Platte          |
 | 07/07/2016 | Node School          | Galvanize - Golden Triangle |
