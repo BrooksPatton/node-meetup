@@ -13,6 +13,7 @@
 | 04/07/2016 | Node School          | Galvanize - Platte          |
 | 04/17/2016 | Reactive REST        | Code                        |
 | 05/05/2016 | Node School          | Galvanize - Golden Triangle |
+| 05/19/2016 | A Proper API Crash Course | Code                   |
 | 06/02/2016 | Node School          | Galvanize - Platte          |
 | 07/07/2016 | Node School          | Galvanize - Golden Triangle |
 | 08/04/2016 | Node School          | Galvanize - Boulder         |
