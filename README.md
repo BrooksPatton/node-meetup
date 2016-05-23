@@ -20,7 +20,7 @@
 | 07/07/2016 | Node School            | Galvanize - Golden Triangle |
 | 07/21/2016 | Strongloop             | Code Talent                 |
 | 08/04/2016 | Node School            | Galvanize - Boulder         |
-| 08/18/2016 | ???                    | Code Talent                 |
+| 08/18/2016 | v8/node runtimes       | Code Talent                 |
 | 09/01/2016 | Node School            | Galvanize - Golden Triangle |
 | 09/15/2016 | ???                    | Code Talent                 |
 | 10/06/2016 | Node School            | Galvanize - Platte          |
