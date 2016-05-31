@@ -16,7 +16,7 @@
 | 04/17/2016 | Node.js and C/C++      | Code Talent                 |
 | 05/19/2016 | API Crash Course       | Code Talent                 |
 | 06/02/2016 | Node School            | Galvanize - Platte          |
-| 06/16/2016 | WASM                   | Code Talent                 |
+| 06/23/2016 | WASM                   | Code Talent                 |
 | 07/07/2016 | Node School            | Galvanize - Golden Triangle |
 | 07/21/2016 | Strongloop             | Code Talent                 |
 | 08/04/2016 | Node School            | Galvanize - Boulder         |
