@@ -22,10 +22,11 @@
 | 08/04/2016 | Cancelled              | Cancelled                   |
 | 08/18/2016 | v8/node runtimes       | Code Talent                 |
 | 09/01/2016 | Node School            | Galvanize - Golden Triangle |
-| 09/15/2016 | Rust for JS Devs       | Code Talent                 |
+| 09/15/2016 | Security w/ Node       | Code Talent                 |
 | 10/06/2016 | Node School            | Galvanize - Platte          |
 | 10/20/2016 | NPM Satellite Registry | Code Talent                 |
 | 11/03/2016 | Node School            | Galvanize - Golden Triangle |
-| 11/17/2016 | Node + React/Redux - 2 | Code Talent                 |
+| 11/17/2016 | Rust for JS Devs       | Code Talent                 |
 | 12/01/2016 | Node School            | Galvanize - Boulder         |
-| 12/15/2016 | Node + React/Redux - 3 | Code Talent                 |
+| 12/15/2016 | Node + React/Redux     | Code Talent                 |
+| 01/19/2017 | Bootstrapping Node     | Code Talent                 |
