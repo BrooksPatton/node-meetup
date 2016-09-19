@@ -36,3 +36,4 @@
 |------------|------------------------|-----------------------------|
 | 01/19/2017 | Bootstrapping Node     | Code Talent                 |
 | 02/16/2017 | Testing Behavior       | Code Talent                 |
+| 03/16/2017 | Typescript + VS Code   | Code Talent                 |
