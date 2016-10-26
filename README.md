@@ -24,7 +24,7 @@
 | 09/01/2016 | Node School            | Galvanize - Golden Triangle |
 | 09/15/2016 | Security w/ Node       | Code Talent                 |
 | 10/06/2016 | Node School            | Galvanize - Platte          |
-| 10/20/2016 | NPM Satellite Registry | Code Talent                 |
+| 10/26/2016 | NPM Satellite Registry | Code Talent                 |
 | 11/03/2016 | Node School            | Galvanize - Golden Triangle |
 | 11/17/2016 | Rust for JS Devs       | Code Talent                 |
 | 12/01/2016 | Node School            | Galvanize - Boulder         |
