@@ -29,12 +29,3 @@
 | 11/17/2016 | Rust for JS Devs       | Code Talent                 |
 | 12/01/2016 | Node School            | Galvanize - Boulder         |
 | 12/15/2016 | Node + React/Redux     | Code Talent                 |
-
-# 2017 Schedule
-
-|    Date    | Subject                | Venue                       |
-|------------|------------------------|-----------------------------|
-| 01/19/2017 | Node + React/Redux     | Code Talent                 |
-| 02/16/2017 | Bootstrapping Node     | Code Talent                 |
-| 03/16/2017 | Testing Behavior       | Code Talent                 |
-| 04/20/2017 | Typescript + VS Code   | Code Talent                 |
