@@ -7,7 +7,7 @@
 |    Date    | Subject                | Meetup Link | Venue           |
 |------------|------------------------|-------------|-----------------|
 | 01/05/2017 | Node School            | N/A | Galvanize - Golden Triangle |
-| 01/12/2017 | Node + React/Redux     | Code Talent                 |
+| 01/12/2017 | Node + React/Redux     | N/A | Code Talent                 |
 | 01/19/2017 | Node + React/Redux     | N/A | Code Talent                 |
 | 02/16/2017 | Deploying Node         | N/A | Code Talent                 |
 | 03/02/2017 | Node School            | N/A | Galvanize - Platte          |
