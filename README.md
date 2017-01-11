@@ -7,7 +7,7 @@
 |    Date    | Subject                | Meetup Link | Speaker | Venue           |
 |------------|------------------------|-------------|-----------------|
 | 01/12/2017 | Node + React/Redux     | [link](https://www.meetup.com/Node-js-Denver-Boulder/events/235986370/) | [Charlie Blackstock](https://www.linkedin.com/in/charlieblackstock) | Code Talent                 |
-| 01/19/2017 | Node + React/Redux     | N/A |  [link](https://www.meetup.com/Node-js-Denver-Boulder/events/236755327/) | [Charlie Blackstock](https://www.linkedin.com/in/charlieblackstock) |Code Talent                 |
+| 01/19/2017 | Node + React/Redux      |  [link](https://www.meetup.com/Node-js-Denver-Boulder/events/236755327/) | [Charlie Blackstock](https://www.linkedin.com/in/charlieblackstock) |Code Talent                 |
 | 02/04/2017 | Node School            | N/A | N/A | Galvanize - Golden Triangle |
 | 02/16/2017 | Deploying Node         | N/A | Matt Sprague | Code Talent                 |
 | 03/02/2017 | Node School            | N/A | N/A | Galvanize - Platte          |
