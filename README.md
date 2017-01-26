@@ -17,7 +17,7 @@
 | 05/18/2017 | Bootstrapping Node   | N/A                                                                     | Ryan Ciecalone                                                      | Code Talent                 |
 | 06/15/2017 | ?                    | N/A                                                                     | Isaac Miller                                                        | Code Talent                 |
 | 07/06/2017 | Node School          | N/A                                                                     | N/A                                                                 | Galvanize - Golden Triangle |
-| 07/20/2017 | Node + Ember          | Frank Valcarcel                                                                    | N/A                                                                 | Code Talent |
-| 08/18/2017 | Node + Ember          | N/A                                                                     | N/A                                                                 | Code Talent |
+| 07/20/2017 | Node + Ember          | N/A                                                                     | N/A                                                                 | Code Talent |
+| 08/18/2017 | Node + AWS Lambda          | Frank Valcarcel                                                                     | N/A                                                                 | Code Talent |
 | 09/07/2017 | Node School          | N/A                                                                     | N/A                                                                 | Galvanize - Platte          |
 | 11/02/2017 | Node School          | N/A                                                                     | N/A                                                                 | Galvanize - Boulder         |
