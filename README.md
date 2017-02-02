@@ -20,4 +20,5 @@
 | 07/20/2017 | Node + Ember          | N/A                                                                     | N/A                                                                 | Code Talent |
 | 08/18/2017 | Node + AWS Lambda          | Frank Valcarcel                                                                     | N/A                                                                 | Code Talent |
 | 09/07/2017 | Node School          | N/A                                                                     | N/A                                                                 | Galvanize - Platte          |
+| 10/19/2017 | Angular Conversion          | Chris Bristow	                                                                     | N/A                                                                 | Code Talent |
 | 11/02/2017 | Node School          | N/A                                                                     | N/A                                                                 | Galvanize - Boulder         |
