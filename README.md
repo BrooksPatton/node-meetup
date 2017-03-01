@@ -10,7 +10,6 @@
 | 01/19/2017 | Node + React/Redux   | [link](https://www.meetup.com/Node-js-Denver-Boulder/events/236755327/) | [Charlie Blackstock](https://www.linkedin.com/in/charlieblackstock) | Code Talent                 |
 | 02/02/2017 | Node School          |  [link](https://www.meetup.com/Node-js-Denver-Boulder/events/237138008/) |       N/A                                                                                                                              | Galvanize - Golden Triangle |
 | 02/16/2017 | Deploying Node       | N/A                                                                     | Matt Sprague                                                        | Code Talent                 |
-| 03/02/2017 | Node School          | N/A                                                                     | N/A                                                                 | Galvanize - Platte          |
 | 03/16/2017 | Testing Behavior     | N/A                                                                     | Dave Sudia                                                          | Code Talent                 |
 | 04/20/2017 | Typescript + VS Code | N/A                                                                     | Hans Windhoff                                                       | Code Talent                 |
 | 05/04/2017 | Node School          | N/A                                                                     | N/A                                                                 | Galvanize - Boulder         |
