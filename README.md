@@ -23,3 +23,4 @@
 | 10/19/2017 | Angular Conversion          | N/A	                                                                     | Chris Bristow                                                                 | Code Talent |
 | 11/02/2017 | Node School          | N/A                                                                     | N/A                                                                 | Galvanize - Boulder         |
 | 11/16/2017 | Node          | N/A                                                                     | Randall Degges                                                                 | Code Talent         |
+| 12/21/2017 | Node + Angular          | N/A                                                                     | Jason Piemeisl                                                                 | Code Talent         |
