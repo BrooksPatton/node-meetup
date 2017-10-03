@@ -24,3 +24,10 @@
 | 11/02/2017 | Node School          | N/A                                                                     | N/A                                                                 | Galvanize - Boulder         |
 | 11/16/2017 | Node          | N/A                                                                     | Randall Degges                                                                 | Code Talent         |
 | 12/21/2017 | Node + Angular          | N/A                                                                     | Jason Piemeisl                                                                 | Code Talent         |
+
+# 2018 Schedule
+
+| Date       | Subject              | Meetup Link                                                             | Speaker                                                             | Venue                       |
+|------------|----------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------|
+| 01/18/2017 | Angular + NativeScript + Node   | N/A | Ryan Ciecalone | Code Talent                 |
+| 02/15/2017 | TBD  | N/A | Michael Herman | Code Talent                 |
