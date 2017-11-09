@@ -28,7 +28,7 @@
 
 | Date       | Subject              | Meetup Link                                                             | Speaker                                                             | Venue                       |
 |------------|----------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------|
-| 01/18/2017 | Angular + NativeScript + Node   | N/A | Ryan Ciecalone | Code Talent                 |
-| 02/15/2017 | TBD  | N/A | Michael Herman | Code Talent                 |
-| 03/15/2017 | TBD  | N/A | Brooks Patton | Code Talent                 |
+| 01/18/2018 | Angular + NativeScript + Node   | N/A | Ryan Ciecalone | Code Talent                 |
+| 02/15/2018 | TBD  | N/A | Michael Herman | Code Talent                 |
+| 03/15/2018 | TBD  | N/A | Brooks Patton | Code Talent                 |
 | 04/19/2018 | TBD  | N/A | James Gibson | Code Talent                 |
