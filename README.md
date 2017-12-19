@@ -21,7 +21,7 @@
 | 08/17/2017 | Node + AWS Lambda          | [link](https://www.meetup.com/Node-js-Denver-Boulder/events/242307611/)                                                                     | [Frank Valcarcel](https://www.linkedin.com/in/fvalcarcel/)                                                                 | Code Talent |
 | 09/21/2017 | GraphQL + Node (part 2)                    | [link](https://www.meetup.com/Node-js-Denver-Boulder/events/243121828/)                                                                     | [Isaac Miller](https://www.linkedin.com/in/isaacmillercodes/)                                                        | Code Talent                 |
 | 10/19/2017 | Building Real World Serverless Apps with Node, Webtask, and Vue          | [link](https://www.meetup.com/Node-js-Denver-Boulder/events/243648316/)	                                                                     | [Chris Sevilleja](https://www.linkedin.com/in/sevilayha/) + [Ado Kukic](https://www.linkedin.com/in/kukicado)                                                                 | Code Talent |
-| 11/16/2017 | JWTs Suck (and Are Stupid)          | [link](https://www.meetup.com/Node-js-Denver-Boulder/events/244497253/)                                                                     | [Randall Degges](https://www.linkedin.com/in/rdegges) |
+| 11/16/2017 | JWTs Suck (and Are Stupid)          | [link](https://www.meetup.com/Node-js-Denver-Boulder/events/244497253/)                                                                     | [Randall Degges](https://www.linkedin.com/in/rdegges) | Code Talent |
 
 # 2018 Schedule
 
