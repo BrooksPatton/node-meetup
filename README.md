@@ -12,3 +12,4 @@
 | 04/19/2018 | [Building API’s Quicker](https://www.meetup.com/Node-js-Denver-Boulder/events/247592492/)  | James Gibson | Code Talent                 |
 | 05/17/2018 | TBD | Taylor Romero | Code Talent
 | 06/20/2018 | TBD | Myles Borins | Code Talent |
+| 07/19/2018 | gRPC vs REST | [Don Schenck](https://www.linkedin.com/in/donschenck/) | Code Talent |
