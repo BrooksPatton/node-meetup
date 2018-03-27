@@ -13,3 +13,4 @@
 | 05/17/2018 | TBD | Taylor Romero | Code Talent
 | 06/20/2018 | TBD | Myles Borins | Code Talent |
 | 07/19/2018 | gRPC vs REST | [Don Schenck](https://www.linkedin.com/in/donschenck/) | Code Talent |
+| 08/16/2018 | TBD | Dan Levy | Code Talent |
