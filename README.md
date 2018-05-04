@@ -14,3 +14,5 @@
 | 06/20/2018 | TBD | Myles Borins | Code Talent |
 | 07/19/2018 | gRPC vs REST | [Don Schenck](https://www.linkedin.com/in/donschenck/) | Code Talent |
 | 08/16/2018 | TBD | Dan Levy | Code Talent |
+| 09/20/2018 | Front End Faceoff | Brooks, Kyle Coberly, TBD | Code Talent
+| 10/18/2018 | TBD | Kyle Coberly | Code Talent
