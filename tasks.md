@@ -17,5 +17,17 @@ Just some steps for running a meetup...
 ### Day of
 
 1. Order pizza.
+  1. call in around noon, order a deferred order for delivery at 6:30pm
+  1. make sure you get the catering discount
+  1. tell them you will be getting the exact same order each month
+  1. next month you can just tell them to do the same order as this month
+    1. 3 XL Cheese
+    1. 1 XL Cheese with Pineapple and Canadian Bacon
+    1. 1 XL Cheese with Pepperoni and Sausage
+    1. 2 XL Cheese with Mushrooms and Pepperoni
+    1. 7 XL Cheese with Pepperoni
+    1. 1 XL Cheese with Mushrooms
+  1. make sure to ask for plates and napkins and what not
+  1. and get the 20% catering discount
 1. Send a final marketing tweet.
 1. Send the receipt to the sponsor for reimbursement.
