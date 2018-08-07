@@ -12,7 +12,8 @@
 | 04/19/2018 | [Building API’s Quicker](https://www.meetup.com/Node-js-Denver-Boulder/events/247592492/)  | [James Gibson](https://www.linkedin.com/in/jameswgibsonjr/) | Code Talent                 |
 | 05/17/2018 | [Node.js + IoT](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyxhbwb/) | [Taylor Romero](https://www.linkedin.com/in/taylorromero/) | Code Talent
 | 06/18/2018 | [ESModules vs CommonJS](https://www.meetup.com/Node-js-Denver-Boulder/events/250108040/) | [Myles Borins](https://www.linkedin.com/in/mylesborins/) | Code Talent |
-| 07/19/2018 | gRPC vs REST | [Don Schenck](https://www.linkedin.com/in/donschenck/) | Code Talent |
+| 07/19/2018 | [gRPC vs REST](https://www.meetup.com/Node-js-Denver-Boulder/events/251352023/) | [Don Schenck](https://www.linkedin.com/in/donschenck/) | Code Talent |
 | 08/16/2018 | TBD | Dan Levy | Code Talent |
 | 09/20/2018 | Front End Faceoff | Brooks, Kyle Coberly, TBD | Code Talent
 | 10/18/2018 | TBD | Kyle Coberly | Code Talent
+| 11/15/2018 | Rapid Prototyping with React | Tom Erickson | Code Talent
