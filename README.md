@@ -17,3 +17,4 @@
 | 09/20/2018 | [Front End Faceoff](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyxmbbc/) | [Brooks](https://www.linkedin.com/in/brookspatton), TBD, TBD | Code Talent
 | 10/18/2018 | TBD | Michael Herman | Code Talent
 | 11/15/2018 | Rapid Prototyping with React | Tom Erickson | Code Talent
+| 12/20/2018 | Happy Hour! | N/A | Sovrn Denver
