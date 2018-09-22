@@ -15,6 +15,6 @@
 | 07/19/2018 | [gRPC vs REST](https://www.meetup.com/Node-js-Denver-Boulder/events/251352023/) | [Don Schenck](https://www.linkedin.com/in/donschenck/) | Code Talent |
 | 08/16/2018 | [3 Reasons Promises Beat Async/Await](https://www.meetup.com/Node-js-Denver-Boulder/events/252901984/) | [Dan Levy](https://www.linkedin.com/in/realdaniellevy/) | Code Talent |
 | 09/20/2018 | [Front End Faceoff](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyxmbbc/) | [Brooks](https://www.linkedin.com/in/brookspatton), TBD, TBD | Code Talent
-| 10/18/2018 | TBD | Michael Herman | Code Talent
+| 10/23/2018 | TBD | Michael Herman | Code Talent
 | 11/15/2018 | Rapid Prototyping with React | Tom Erickson | Code Talent
 | 12/20/2018 | Happy Hour! | N/A | Sovrn Denver
