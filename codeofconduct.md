@@ -20,7 +20,7 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 If a participant engages in harassing behavior, the meetup organizers may take any action they deem appropriate, including warning the offender or expulsion from the meetup.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer immediately. Conference staff can be identified as they'll be wearing branded t-shirts.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer immediately.
 
 Organizers will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
 
