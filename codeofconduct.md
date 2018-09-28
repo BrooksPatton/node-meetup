@@ -22,7 +22,7 @@ If a participant engages in harassing behavior, the meetup organizers may take a
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer immediately.
 
-Organizers will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
+Organizers will be happy to help participants contact local law enforcement or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
 
 We expect participants to follow these rules at the meetup and workshop venues and meetup-related social events.
 
