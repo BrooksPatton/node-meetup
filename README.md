@@ -1,20 +1,20 @@
-# 2018 Schedule
+# 2019 Schedule
 
 [Meetup Link](http://www.meetup.com/Node-js-Denver-Boulder/)
 
-> Want to speak? Email me! michael at mherman dot org
+> Want to speak? Email me! brooks at brookzerker dot com
 
-| Date       | Subject              | Speaker  | Venue |
-|------------|----------------------|----------|-------|
-| 01/18/2018 | [Intro to Angular 5](https://www.meetup.com/Node-js-Denver-Boulder/events/246609087/)   | [Ryan Ciecalone](https://www.linkedin.com/in/ryanciecalone) | Code Talent                 |
-| 02/15/2018 | [Introducing Denali](https://www.meetup.com/Node-js-Denver-Boulder/events/247230624/)   | [Dave Wasmer](https://www.linkedin.com/in/davewasmer) | Code Talent                 |
-| 03/15/2018 | [Using Docker Compose](https://www.meetup.com/Node-js-Denver-Boulder/events/247589819/)  | [Brooks Patton](https://www.linkedin.com/in/brookspatton/) | Code Talent                 |
-| 04/19/2018 | [Building API’s Quicker](https://www.meetup.com/Node-js-Denver-Boulder/events/247592492/)  | [James Gibson](https://www.linkedin.com/in/jameswgibsonjr/) | Code Talent                 |
-| 05/17/2018 | [Node.js + IoT](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyxhbwb/) | [Taylor Romero](https://www.linkedin.com/in/taylorromero/) | Code Talent
-| 06/18/2018 | [ESModules vs CommonJS](https://www.meetup.com/Node-js-Denver-Boulder/events/250108040/) | [Myles Borins](https://www.linkedin.com/in/mylesborins/) | Code Talent |
-| 07/19/2018 | [gRPC vs REST](https://www.meetup.com/Node-js-Denver-Boulder/events/251352023/) | [Don Schenck](https://www.linkedin.com/in/donschenck/) | Code Talent |
-| 08/16/2018 | [3 Reasons Promises Beat Async/Await](https://www.meetup.com/Node-js-Denver-Boulder/events/252901984/) | [Dan Levy](https://www.linkedin.com/in/realdaniellevy/) | Code Talent |
-| 09/20/2018 | [Front End Faceoff](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyxmbbc/) | [Brooks](https://www.linkedin.com/in/brookspatton), TBD, TBD | Code Talent
-| 10/23/2018 | Intro to Kubernetes | Michael Herman | Code Talent
-| 11/15/2018 | Rapid Prototyping with React | Tom Erickson | Code Talent
-| 12/20/2018 | Happy Hour! | N/A | Sovrn Denver
+| Date       | Subject                                                                                         | Speaker                                                  | Venue       |
+|------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------|
+| 01/17/2019 | [Programming Without Ifs](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyzcbwb/)   | [Kyle Coberly](https://www.linkedin.com/in/kylecoberly/) | Code Talent |
+| 02/21/2019 | [speaking spot available]() | []() | Code Talent                 |
+| 03/21/2019 | [speaking spot available]()  | []() | Code Talent                 |
+| 04/18/2019 | [speaking spot available]()  | []() | Code Talent                 |
+| 05/16/2019 | [speaking spot available]() | []() | Code Talent
+| 06/20/2019 | [speaking spot available]() | []() | Code Talent |
+| 07/18/2019 | [speaking spot available]() | []() | Code Talent |
+| 08/15/2019 | [speaking spot available]() | []() | Code Talent |
+| 09/19/2019 | [speaking spot available]() | [](), | Code Talent
+| 10/17/2019 | [speaking spot available]() | [](), | Code Talent 
+| 11/21/2019 | [speaking spot available]() | [](), | Code Talent 
+| 12/19/2019 | [speaking spot available]() | [](), | Code Talent 
