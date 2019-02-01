@@ -7,7 +7,7 @@
 | Date       | Subject                                                                                         | Speaker                                                  | Venue       |
 |------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------|
 | 01/17/2019 | [Programming Without Ifs](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyzcbwb/)   | [Kyle Coberly](https://www.linkedin.com/in/kylecoberly/) | Code Talent |
-| 02/21/2019 | [speaking spot available]() | []() | Code Talent                 |
+| 02/21/2019 | [Lightning Talks - JS array methods, React Hooks](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyzdbcc/) | [Mike Frazier](https://www.linkedin.com/in/mikesfrazier/), [Austin Johnston](https://www.linkedin.com/in/austinrjohnston/) | Code Talent                 |
 | 03/21/2019 | [speaking spot available]()  | []() | Code Talent                 |
 | 04/18/2019 | [speaking spot available]()  | []() | Code Talent                 |
 | 05/16/2019 | [speaking spot available]() | []() | Code Talent
