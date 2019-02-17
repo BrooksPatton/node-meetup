@@ -11,7 +11,7 @@
 | 03/21/2019 | [TBD]()  | [CJ Reynalds]() | Code Talent                 |
 | 04/18/2019 | [TBD]()  | [Dan Levy]() | Code Talent                 |
 | 05/16/2019 | [TBD]() | [Kim Schlesinger]() | Code Talent
-| 06/20/2019 | [speaking spot available]() | []() | Code Talent |
+| 06/20/2019 | [TBD]() | [Zach Jory]() | Code Talent |
 | 07/18/2019 | [speaking spot available]() | []() | Code Talent |
 | 08/15/2019 | [speaking spot available]() | []() | Code Talent |
 | 09/19/2019 | [Front End Faceoff part 3]() | [Kim Schlesinger](), | Code Talent
