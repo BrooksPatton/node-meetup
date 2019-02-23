@@ -13,7 +13,7 @@
 | 05/16/2019 | [TBD]() | [Kim Schlesinger]() | Code Talent
 | 06/20/2019 | [TBD]() | [Zach Jory]() | Code Talent |
 | 07/18/2019 | [Socket IO microservice]() | [Eric Fossas]() | Code Talent |
-| 08/15/2019 | [speaking spot available]() | []() | Code Talent |
+| 08/15/2019 | Data Science with nodejs and napajs | [Jon Wisda](https://www.linkedin.com/in/jon-wisda-104331/) | Code Talent |
 | 09/19/2019 | [Front End Faceoff part 3]() | [Kim Schlesinger](), | Code Talent
 | 10/17/2019 | [speaking spot available]() | [](), | Code Talent 
 | 11/21/2019 | [speaking spot available]() | [](), | Code Talent 
