@@ -13,7 +13,7 @@
 | 05/16/2019 | [Micro frontends](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyzhbvb/) (lightning talk), [Refactoring for Accessibility](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyzhbvb/) (full talk) | [Roberto Ortega](https://www.linkedin.com/in/bertoort/), [Kim Schlesinger](https://www.linkedin.com/in/kimschlesinger/) | Code Talent
 | 06/20/2019 | [Why developers should care about service mesh](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyzjbbc/) | [Neeraj Poddar](https://www.linkedin.com/in/neeraj-poddar-bb392a9/) | Code Talent |
 | 07/18/2019 | [Socket IO microservice](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyzkbxb/) | [Eric Fossas](https://www.linkedin.com/in/eric-fossas/) | Code Talent |
-| 08/15/2019 | Data Science with nodejs and napajs | [Jon Wisda](https://www.linkedin.com/in/jon-wisda-104331/) | Code Talent |
+| 08/22/2019 | [Data Science with nodejs and napajs](https://www.meetup.com/Node-js-Denver-Boulder/events/nprrhpyzlbtb/) | [Jon Wisda](https://www.linkedin.com/in/jon-wisda-104331/) | Code Talent |
 | 09/19/2019 | [Front End Faceoff part 3]() | [Kim Schlesinger](), | Code Talent
 | 10/17/2019 | [NestJS]() | [Ely Lucas](https://www.twitter.com/elyucas), | Code Talent 
 | 11/21/2019 | Accessibility | [Chris DeMars](https://www.linkedin.com/in/chrisdemars/), | Code Talent 
