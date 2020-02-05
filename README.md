@@ -7,9 +7,9 @@
 | Date       | Subject                                                                                         | Speaker(s)                                                  | Venue       |
 |------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------|
 | 01/16/2020 | [Lambda on Digital Ocean](https://www.meetup.com/Node-js-Denver-Boulder/events/qjvqlrybccbvb/) | [Brooks Patton](https://www.linkedin.com/in/brookspatton/) | Code Talent |
-| 02/20/2020 | [Data transformations with lodash](https://www.meetup.com/Node-js-Denver-Boulder/events/qjvqlrybcdbbc/) | [Kyle Coberly](https://kylecoberly.com/) | Code Talent                 |
+| 02/20/2020 | [Why Johnny Can't Code: An Evening of Rants about Education with Kyle Coberly](https://www.meetup.com/Node-js-Denver-Boulder/events/qjvqlrybcdbbc/) | [Kyle Coberly](https://kylecoberly.com/) | Code Talent                 |
 | 03/19/2020 | [TBD](https://www.meetup.com/Node-js-Denver-Boulder/events/qjvqlrybcfbzb/)  | [TBD]() | Code Talent                 |
-| 04/16/2020 | [TBD](https://www.meetup.com/Node-js-Denver-Boulder/events/qjvqlrybcgbvb/)  | [TBD]() | Code Talent                 |
+| 04/16/2020 | [TBD](https://www.meetup.com/Node-js-Denver-Boulder/events/qjvqlrybcgbvb/)  | [Brian Schiller](https://www.linkedin.com/in/bgschiller/) | Code Talent                 |
 | 05/21/2020 | [TBD](https://www.meetup.com/Node-js-Denver-Boulder/events/qjvqlrybchbcc/) [TBD](https://www.meetup.com/Node-js-Denver-Boulder/events/qjvqlrybchbcc/) | [TBD]() | Code Talent
 | 06/18/2020 | [TBD](https://www.meetup.com/Node-js-Denver-Boulder/events/qjvqlrybcjbxb/) | [TBD]() | Code Talent |
 | 07/16/2020 | [TBD](https://www.meetup.com/Node-js-Denver-Boulder/events/qjvqlrybckbvb/) | [TBD]() | Code Talent |
